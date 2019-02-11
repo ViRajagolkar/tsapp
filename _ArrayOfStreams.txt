@@ -1,0 +1,13 @@
+Assignment
+============
+
+Create Array of streams and perform following operations on it.
+1) Sort based on length of each string as well as alphabetic order of the string.
+2) Filter out the array based on specific criteria for each string in array.
+	For ex- String start with Uppercase character.
+3) Create a tuple storing dictionary of products like ProductId, ProductName, CategoryName, Manufacturer, & BasePrice.
+
+	Perform the following operations on it.
+1> Sort the ProductData based on the ProductName.
+2> Create a search function which should search the record based on criteria pass to the function.
+	For ex- CategoryName === Category.value.
